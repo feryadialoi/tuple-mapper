@@ -1,4 +1,4 @@
-package dev.feryadialoi.tuplemapper;
+package com.github.feryadialoi.tuplemapper;
 
 public interface Tuple3Function<T1, T2, T3, R> {
     R apply(T1 t1, T2 t2, T3 t3);

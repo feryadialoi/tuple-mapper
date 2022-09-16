@@ -1,4 +1,4 @@
-package dev.feryadialoi.tuplemapper;
+package com.github.feryadialoi.tuplemapper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

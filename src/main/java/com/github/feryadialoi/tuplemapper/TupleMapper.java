@@ -1,4 +1,4 @@
-package dev.feryadialoi.tuplemapper;
+package com.github.feryadialoi.tuplemapper;
 
 import reactor.util.function.Tuple2;
 import reactor.util.function.Tuple3;
