@@ -15,6 +15,8 @@
     <description>tuple-mapper</description>
     <properties>
         <java.version>17</java.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>
@@ -42,16 +44,5 @@
             </plugin>
         </plugins>
     </build>
-
-    <pluginRepositories>
-        <pluginRepository>
-            <id>maven-snapshots</id>
-            <url>https://repository.apache.org/content/repositories/snapshots/</url>
-        </pluginRepository>
-        <pluginRepository>
-            <id>maven-shade-plugin</id>
-            <url>https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-shade-plugin</url>
-        </pluginRepository>
-    </pluginRepositories>
 
 </project>
