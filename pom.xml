@@ -8,9 +8,9 @@
         <version>2.7.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>dev.feryadi</groupId>
+    <groupId>com.github.feryadialoi</groupId>
     <artifactId>tuple-mapper</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>tuple-mapper</name>
     <description>tuple-mapper</description>
     <properties>
